@@ -6,7 +6,7 @@ I completed a natural language processing task for a Fortune 500 company as part
 
 This brought up a lot of challenges. One specific difficulty I faced was that “I didn’t know what I didn’t know”. In other words, I was not aware of what the pipeline of an NLP project looked like, what libraries were useful in this space or how I was going to apply what I had in my ML toolkit to text data.
 
-This series of blog posts is my attempt at explaining, both in theory and in practice, what NLP is, what a bird’s eye view of an NLP project looks like and how the major steps are implemented. I frame the analysis using Amazon data on their Video Games category.
+This series of blog posts is my attempt at explaining, both in theory and in practice, what NLP is, what a bird’s eye view of an NLP project looks like and how the major steps are implemented. I frame the analysis using Amazon data on their Video Games category. The link to this can be found in Notebook 1, before any analysis is implemented.
 
 There are three individual posts in this series in the form of Jupyter Notebooks:
 
